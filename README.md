@@ -1,6 +1,6 @@
 # ScImTH
 
-Here,, we proposed an algorithm (ScImTH) to evaluate the level of intratumor immune heterogeneity (ImTH).
+Here we proposed an algorithm (ScImTH) to evaluate the level of intratumor immune heterogeneity (ImTH).
 
 ![ScImTH](E:\luqiqi\ITH\R_pacakges\ImTH\ScImTH.png)
 
@@ -48,7 +48,7 @@ devtools::install_github("WangX-Lab/ScImTH")
 &nbsp
 &nbsp;
 
-### **Apply ScImTH in bulk transcriptome**
+### **Apply ScImTH to bulk transcriptomes**
 
 ```R
 library(ScImTH)
@@ -280,4 +280,4 @@ ImTH_ST[1:5,]
 
 # Contact
 
-E-mail any questions to Xiaosheng Wang (xiaosheng.wang@cpu.edu.cn)
+E-mail any questions to Xiaosheng Wang (xiaosheng.wang@hotmail.com)
