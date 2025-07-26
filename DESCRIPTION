@@ -1,0 +1,17 @@
+Package: ScImTH
+Title: ScImTH: an algorithm for quantifying intratumor immune heterogeneity
+Version: 1.1.0
+Authors@R: c(person(given = "Qiqi", family = "Lu", role = c("aut", "cre"), email = "qiqi.lu@hotmail.com"),
+              person(given = "Xiaosheng", family = "Wang", role = c("aut"), email = "xiaosheng.wang@hotmail.com"))
+Maintainer: Qiqi Lu <qiqi.lu@hotmail.com> and Xiaosheng Wang <xiaosheng.wang@hotmail.com>
+Description: Quantifying intratumor immune heterogeneity.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: 
+    e1071,
+    parallel,
+    preprocessCore,
+    stats,
+    utils
