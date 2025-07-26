@@ -219,7 +219,7 @@ spatial_location[1:5,]
 **sc_count2**
 
 ```R
-sc_count2[1:5,1:5]
+as.matrix(sc_count2[1:5, 1:5])
 ```
 
 | row.names         | CID3586_AAAGATGCAGGGAGAG | CID3586_AAATGCCCATCCCATC | CID3586_AACTTTCAGGGCTTGA | CID3586_AATCCAGTCAACTCTT | CID3586_ACGGAGAGTGGGTATG |
