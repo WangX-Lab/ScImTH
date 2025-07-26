@@ -251,7 +251,7 @@ sc_meta2[1:5,1:5]
 **ratio**
 
 ```R
-ratio [1:5,1:5]
+ratio [1:5,]
 ```
 
 | **row.names** | B-cells    | T-cells   | Myeloid    | Plasmablasts |
