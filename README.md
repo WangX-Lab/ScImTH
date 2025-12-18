@@ -4,7 +4,6 @@ Here we proposed an algorithm (ScImTH) to evaluate the level of intratumor immun
 
 ![ScImTH](https://github.com/WangX-Lab/ScImTH/blob/master/ScImTH.jpg)
 
-&nbsp
 &nbsp;
 
 # Description
@@ -285,5 +284,6 @@ https://doi.org/10.1038/s41698-025-01223-x
 # Contact
 
 E-mail any questions to Xiaosheng Wang (xiaosheng.wang@hotmail.com)
+
 
 
