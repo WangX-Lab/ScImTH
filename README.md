@@ -278,6 +278,11 @@ ImTH_ST[1:5,]
 | **10x13**  |  1.365512  |
 | **10x14**  |  1.644655  |
 
+# Cite this article
+Lu, Q., Luo, J., Tung, CH. et al. Quantitative profiling of intratumor immune heterogeneity identifies loss of immune diversity as a hallmark of cancer progression. npj Precis. Onc. (2025). 
+https://doi.org/10.1038/s41698-025-01223-x
+
 # Contact
 
 E-mail any questions to Xiaosheng Wang (xiaosheng.wang@hotmail.com)
+
